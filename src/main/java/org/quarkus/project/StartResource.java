@@ -1,4 +1,4 @@
-package org.testes.project;
+package org.quarkus.project;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

@@ -1,4 +1,4 @@
-package org.testes.project;
+package org.quarkus.project;
 
 import io.quarkus.test.junit.NativeImageTest;
 

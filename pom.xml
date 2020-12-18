@@ -44,6 +44,22 @@
       <artifactId>rest-assured</artifactId>
       <scope>test</scope>
     </dependency>
+      <dependency>
+          <groupId>io.agroal</groupId>
+          <artifactId>agroal-pool</artifactId>
+          <version>1.7</version>
+      </dependency>
+    <dependency>
+      <groupId>org.codehaus.groovy</groupId>
+      <artifactId>groovy-all</artifactId>
+      <version>1.7.6</version>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>RELEASE</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
